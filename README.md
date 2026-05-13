@@ -10,7 +10,7 @@ Aku akan membandingkan **· Gemini 1.5 Flash · LLaMA 3 (Groq)** untuk prompt ya
 
 ```bash
 git clone <repo-url>
-cd ai-comparator
+cd P1-ai-comparator
 pip install -r requirements.txt
 ```
 
