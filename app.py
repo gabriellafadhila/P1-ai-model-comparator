@@ -181,7 +181,8 @@ st.markdown("""
         </div>
     </div>
     <p style="margin:0 0 14px; font-size:0.97rem; color:#374151; line-height:1.7;">
-        Di sini aku sedang membangun portofoliku sebagai <strong>AI Engineer</strong>. 
+        Aku merupakan seseorang yang tertarik di bidang  <strong>Data Analis</strong>,  <strong>Machine Learning</strong>, dan  
+        <strong>Artificial Intelligence</strong>. Di sini aku sedang membangun portofoliku sebagai <strong>AI Engineer</strong>. 
         Pada project ini aku melakukan komparasi antara dua model AI, yaitu 
         <strong style="color:#1a73e8;">Gemini 2.5 Flash</strong> dan 
         <strong style="color:#16a34a;">LLaMA 3.1 via Groq</strong>
