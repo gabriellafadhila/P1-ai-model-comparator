@@ -45,10 +45,3 @@ ai-comparator/
 ├── .env.example     # Template API keys
 └── README.md
 ```
-
-## Deploy ke Streamlit Cloud (gratis)
-
-1. Push ke GitHub (pastikan `.env` ada di `.gitignore`)
-2. Buka https://share.streamlit.io → New app
-3. Pilih repo → `app.py` sebagai entry point
-4. Tambahkan API key di **Settings → Secrets** dengan format sama seperti `.env`
